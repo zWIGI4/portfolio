@@ -3,14 +3,14 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-02-11,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
 2026-02-18,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
 2026-02-25,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
-2026-02-04,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-02-11,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-02-18,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-02-25,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-02-04,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-02-11,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-02-18,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-02-25,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
+2026-02-04,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-02-11,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-02-18,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-02-25,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-02-04,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-02-11,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-02-18,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-02-25,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
 2026-02-01,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,tak
 2026-02-08,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,nie
 2026-02-15,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,nie
@@ -91,10 +91,10 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-02-08,Dorośli początkujący,Maja Kozłowski,maja.kozlowski24@example.com,tak
 2026-02-15,Dorośli początkujący,Maja Kozłowski,maja.kozlowski24@example.com,tak
 2026-02-22,Dorośli początkujący,Maja Kozłowski,maja.kozlowski24@example.com,tak
-2026-02-04,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,tak
-2026-02-11,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,tak
-2026-02-18,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,tak
-2026-02-25,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,tak
+2026-02-04,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,tak
+2026-02-11,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,tak
+2026-02-18,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,tak
+2026-02-25,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,tak
 2026-02-03,Młodzież,Ola Krawczyk,ola.krawczyk27@example.com,tak
 2026-02-10,Młodzież,Ola Krawczyk,ola.krawczyk27@example.com,nie
 2026-02-17,Młodzież,Ola Krawczyk,ola.krawczyk27@example.com,nie
@@ -143,18 +143,18 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-02-10,Delfinki (7-9 lat),Adam Kowalska,adam.kowalska42@example.com,tak
 2026-02-17,Delfinki (7-9 lat),Adam Kowalska,adam.kowalska42@example.com,tak
 2026-02-24,Delfinki (7-9 lat),Adam Kowalska,adam.kowalska42@example.com,nie
-2026-02-03,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,tak
-2026-02-10,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,tak
-2026-02-17,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,tak
-2026-02-24,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,tak
+2026-02-03,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,tak
+2026-02-10,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,tak
+2026-02-17,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,tak
+2026-02-24,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,tak
 2026-02-05,Delfinki (7-9 lat),Kasia Wiśniewski,kasia.wisniewski44@example.com,tak
 2026-02-12,Delfinki (7-9 lat),Kasia Wiśniewski,kasia.wisniewski44@example.com,nie
 2026-02-19,Delfinki (7-9 lat),Kasia Wiśniewski,kasia.wisniewski44@example.com,tak
 2026-02-26,Delfinki (7-9 lat),Kasia Wiśniewski,kasia.wisniewski44@example.com,tak
-2026-02-06,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
-2026-02-13,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,nie
-2026-02-20,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
-2026-02-27,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
+2026-02-06,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
+2026-02-13,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,nie
+2026-02-20,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
+2026-02-27,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
 2026-02-03,Młodzież,Filip Zielińska,filip.zielinska48@example.com,tak
 2026-02-10,Młodzież,Filip Zielińska,filip.zielinska48@example.com,nie
 2026-02-17,Młodzież,Filip Zielińska,filip.zielinska48@example.com,tak
@@ -203,14 +203,14 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-03-08,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
 2026-03-15,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,nie
 2026-03-22,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
-2026-03-04,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,nie
-2026-03-11,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-03-18,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-03-25,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-03-01,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,nie
-2026-03-08,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-03-15,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-03-22,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
+2026-03-04,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,nie
+2026-03-11,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-03-18,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-03-25,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-03-01,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,nie
+2026-03-08,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-03-15,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-03-22,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
 2026-03-03,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,nie
 2026-03-10,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,tak
 2026-03-17,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,tak
@@ -287,10 +287,10 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-03-11,Dorośli początkujący,Maja Kozłowski,maja.kozlowski24@example.com,tak
 2026-03-18,Dorośli początkujący,Maja Kozłowski,maja.kozlowski24@example.com,tak
 2026-03-25,Dorośli początkujący,Maja Kozłowski,maja.kozlowski24@example.com,tak
-2026-03-06,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,tak
-2026-03-13,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,tak
-2026-03-20,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,tak
-2026-03-27,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,tak
+2026-03-06,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,tak
+2026-03-13,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,tak
+2026-03-20,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,tak
+2026-03-27,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,tak
 2026-03-05,Dorośli doskonalący,Adam Zielińska,adam.zielinska26@example.com,tak
 2026-03-12,Dorośli doskonalący,Adam Zielińska,adam.zielinska26@example.com,nie
 2026-03-19,Dorośli doskonalący,Adam Zielińska,adam.zielinska26@example.com,tak
@@ -339,10 +339,10 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-03-12,Delfinki (7-9 lat),Adam Kowalska,adam.kowalska42@example.com,nie
 2026-03-19,Delfinki (7-9 lat),Adam Kowalska,adam.kowalska42@example.com,tak
 2026-03-26,Delfinki (7-9 lat),Adam Kowalska,adam.kowalska42@example.com,tak
-2026-03-05,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,tak
-2026-03-12,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,nie
-2026-03-19,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,tak
-2026-03-26,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,tak
+2026-03-05,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,tak
+2026-03-12,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,nie
+2026-03-19,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,tak
+2026-03-26,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,tak
 2026-03-04,Delfinki (7-9 lat),Kasia Wiśniewski,kasia.wisniewski44@example.com,tak
 2026-03-11,Delfinki (7-9 lat),Kasia Wiśniewski,kasia.wisniewski44@example.com,tak
 2026-03-18,Delfinki (7-9 lat),Kasia Wiśniewski,kasia.wisniewski44@example.com,tak
@@ -391,14 +391,14 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-04-08,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
 2026-04-15,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
 2026-04-22,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
-2026-04-02,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-04-09,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-04-16,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-04-23,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-04-02,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-04-09,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-04-16,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-04-23,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
+2026-04-02,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-04-09,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-04-16,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-04-23,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-04-02,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-04-09,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-04-16,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-04-23,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
 2026-04-01,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,tak
 2026-04-08,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,nie
 2026-04-15,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,tak
@@ -479,10 +479,10 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-04-09,Dorośli początkujący,Maja Kozłowski,maja.kozlowski24@example.com,tak
 2026-04-16,Dorośli początkujący,Maja Kozłowski,maja.kozlowski24@example.com,tak
 2026-04-23,Dorośli początkujący,Maja Kozłowski,maja.kozlowski24@example.com,tak
-2026-04-01,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,tak
-2026-04-08,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,nie
-2026-04-15,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,nie
-2026-04-22,Dorośli początkujący,Paweł Wójcik,paweł.wojcik25@example.com,tak
+2026-04-01,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,tak
+2026-04-08,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,nie
+2026-04-15,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,nie
+2026-04-22,Dorośli początkujący,Paweł Wójcik,pawel.wojcik25@example.com,tak
 2026-04-04,Młodzież,Ola Krawczyk,ola.krawczyk27@example.com,tak
 2026-04-11,Młodzież,Ola Krawczyk,ola.krawczyk27@example.com,nie
 2026-04-18,Młodzież,Ola Krawczyk,ola.krawczyk27@example.com,nie
@@ -535,10 +535,10 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-04-10,Delfinki (7-9 lat),Kasia Wiśniewski,kasia.wisniewski44@example.com,nie
 2026-04-17,Delfinki (7-9 lat),Kasia Wiśniewski,kasia.wisniewski44@example.com,tak
 2026-04-24,Delfinki (7-9 lat),Kasia Wiśniewski,kasia.wisniewski44@example.com,tak
-2026-04-06,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
-2026-04-13,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
-2026-04-20,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
-2026-04-27,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
+2026-04-06,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
+2026-04-13,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
+2026-04-20,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
+2026-04-27,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
 2026-04-04,Młodzież,Filip Zielińska,filip.zielinska48@example.com,tak
 2026-04-11,Młodzież,Filip Zielińska,filip.zielinska48@example.com,tak
 2026-04-18,Młodzież,Filip Zielińska,filip.zielinska48@example.com,nie
@@ -583,14 +583,14 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-05-08,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,nie
 2026-05-15,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
 2026-05-22,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
-2026-05-05,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-05-12,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-05-19,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-05-26,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-05-06,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-05-13,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-05-20,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-05-27,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
+2026-05-05,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-05-12,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-05-19,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-05-26,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-05-06,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-05-13,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-05-20,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-05-27,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
 2026-05-02,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,tak
 2026-05-09,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,tak
 2026-05-16,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,tak
@@ -731,18 +731,18 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-05-13,Młodzież,Natalia Kowalska,natalia.kowalska41@example.com,tak
 2026-05-20,Młodzież,Natalia Kowalska,natalia.kowalska41@example.com,nie
 2026-05-27,Młodzież,Natalia Kowalska,natalia.kowalska41@example.com,tak
-2026-05-01,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,tak
-2026-05-08,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,tak
-2026-05-15,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,tak
-2026-05-22,Delfinki (7-9 lat),Paweł Kamińska,paweł.kaminska43@example.com,tak
+2026-05-01,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,tak
+2026-05-08,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,tak
+2026-05-15,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,tak
+2026-05-22,Delfinki (7-9 lat),Paweł Kamińska,pawel.kaminska43@example.com,tak
 2026-05-02,Żabki (4-6 lat),Ola Nowak,ola.nowak45@example.com,tak
 2026-05-09,Żabki (4-6 lat),Ola Nowak,ola.nowak45@example.com,tak
 2026-05-16,Żabki (4-6 lat),Ola Nowak,ola.nowak45@example.com,tak
 2026-05-23,Żabki (4-6 lat),Ola Nowak,ola.nowak45@example.com,tak
-2026-05-04,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
-2026-05-11,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
-2026-05-18,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
-2026-05-25,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
+2026-05-04,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
+2026-05-11,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
+2026-05-18,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
+2026-05-25,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
 2026-05-02,Dorośli doskonalący,Julia Kozłowski,julia.kozlowski47@example.com,tak
 2026-05-09,Dorośli doskonalący,Julia Kozłowski,julia.kozlowski47@example.com,nie
 2026-05-16,Dorośli doskonalący,Julia Kozłowski,julia.kozlowski47@example.com,tak
@@ -799,14 +799,14 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-06-13,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
 2026-06-20,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,nie
 2026-06-27,Delfinki (7-9 lat),Ewa Lewandowski,ewa.lewandowski0@example.com,tak
-2026-06-02,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-06-09,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-06-16,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-06-23,Żabki (4-6 lat),Paweł Wójcik,paweł.wojcik1@example.com,tak
-2026-06-02,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-06-09,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-06-16,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
-2026-06-23,Dorośli początkujący,Michał Szymański,michał.szymanski2@example.com,tak
+2026-06-02,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-06-09,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-06-16,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-06-23,Żabki (4-6 lat),Paweł Wójcik,pawel.wojcik1@example.com,tak
+2026-06-02,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-06-09,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-06-16,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
+2026-06-23,Dorośli początkujący,Michał Szymański,michal.szymanski2@example.com,tak
 2026-06-03,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,nie
 2026-06-10,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,tak
 2026-06-17,Delfinki (7-9 lat),Filip Wójcik,filip.wojcik3@example.com,tak
@@ -927,10 +927,10 @@ data_zajec,grupa,uczestnik,email,obecny
 2026-06-10,Żabki (4-6 lat),Ola Nowak,ola.nowak45@example.com,tak
 2026-06-17,Żabki (4-6 lat),Ola Nowak,ola.nowak45@example.com,nie
 2026-06-24,Żabki (4-6 lat),Ola Nowak,ola.nowak45@example.com,tak
-2026-06-03,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
-2026-06-10,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
-2026-06-17,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
-2026-06-24,Dorośli początkujący,Paweł Jankowska,paweł.jankowska46@example.com,tak
+2026-06-03,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
+2026-06-10,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
+2026-06-17,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
+2026-06-24,Dorośli początkujący,Paweł Jankowska,pawel.jankowska46@example.com,tak
 2026-06-01,Młodzież,Filip Zielińska,filip.zielinska48@example.com,nie
 2026-06-08,Młodzież,Filip Zielińska,filip.zielinska48@example.com,tak
 2026-06-15,Młodzież,Filip Zielińska,filip.zielinska48@example.com,tak

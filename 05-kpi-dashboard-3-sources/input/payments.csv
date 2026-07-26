@@ -4,7 +4,7 @@ py_84157,2026-05-06,200,PLN,succeeded,piotr.piotrowska23@example.com,Karnet: Mł
 py_84228,2026-06-06,220,PLN,succeeded,anna.kowalska56@example.com,Karnet: Dorośli doskonalący
 py_84097,2026-04-05,180,PLN,succeeded,tomek.krawczyk7@example.com,Karnet: Delfinki (7-9 lat)
 py_84192,2026-06-03,180,PLN,succeeded,karolina.nowak5@example.com,Karnet: Rekiny (10-12 lat)
-py_84068,2026-03-06,220,PLN,succeeded,paweł.wojcik25@example.com,Karnet: Dorośli początkujący
+py_84068,2026-03-06,220,PLN,succeeded,pawel.wojcik25@example.com,Karnet: Dorośli początkujący
 py_84094,2026-04-01,180,PLN,succeeded,filip.wojcik3@example.com,Karnet: Delfinki (7-9 lat)
 py_84014,2026-02-03,220,PLN,succeeded,kasia.kowalska18@example.com,Karnet: Dorośli początkujący
 py_84166,2026-05-03,160,PLN,succeeded,karolina.kowalska35@example.com,Karnet: Żabki (4-6 lat)
@@ -15,7 +15,7 @@ py_84170,2026-05-02,160,PLN,succeeded,ola.krawczyk39@example.com,Karnet: Żabki 
 py_84175,2026-05-04,200,PLN,succeeded,filip.zielinska48@example.com,Karnet: Młodzież
 py_84098,2026-04-01,200,PLN,succeeded,karolina.piotrowska8@example.com,Karnet: Młodzież
 py_84212,2026-06-03,180,PLN,succeeded,adam.grabowski36@example.com,Karnet: Rekiny (10-12 lat)
-py_84189,2026-06-02,220,PLN,succeeded,michał.szymanski2@example.com,Karnet: Dorośli początkujący
+py_84189,2026-06-02,220,PLN,succeeded,michal.szymanski2@example.com,Karnet: Dorośli początkujący
 py_84144,2026-05-04,200,PLN,succeeded,karolina.piotrowska8@example.com,Karnet: Młodzież
 py_84025,2026-02-05,200,PLN,succeeded,maja.mazur32@example.com,Karnet: Młodzież
 py_84029,2026-02-06,200,PLN,succeeded,piotr.krawczyk38@example.com,Karnet: Młodzież
@@ -38,7 +38,7 @@ py_84185,2026-05-06,200,PLN,succeeded,kasia.krawczyk58@example.com,Karnet: Młod
 py_84117,2026-04-02,200,PLN,succeeded,maja.mazur32@example.com,Karnet: Młodzież
 py_84235,2026-02-01,150,PLN,succeeded,maja.mazur32@example.com,Wpłata indywidualna
 py_84236,2026-03-06,150,PLN,succeeded,kasia.wisniewski44@example.com,Wpłata indywidualna
-py_84188,2026-06-02,160,PLN,succeeded,paweł.wojcik1@example.com,Karnet: Żabki (4-6 lat)
+py_84188,2026-06-02,160,PLN,succeeded,pawel.wojcik1@example.com,Karnet: Żabki (4-6 lat)
 py_84030,2026-02-03,160,PLN,succeeded,ola.krawczyk39@example.com,Karnet: Żabki (4-6 lat)
 py_84007,2026-02-05,220,PLN,succeeded,marek.kowalska10@example.com,Karnet: Dorośli początkujący
 py_84160,2026-05-03,160,PLN,succeeded,anna.nowak28@example.com,Karnet: Żabki (4-6 lat)
@@ -56,7 +56,7 @@ py_84086,2026-03-04,200,PLN,succeeded,ewa.kaminska52@example.com,Karnet: Młodzi
 py_84159,2026-05-02,200,PLN,succeeded,ola.krawczyk27@example.com,Karnet: Młodzież
 py_84046,2026-02-03,220,PLN,succeeded,tomek.kowalska59@example.com,Karnet: Dorośli doskonalący
 py_84181,2026-05-06,160,PLN,succeeded,adam.kowalska54@example.com,Karnet: Żabki (4-6 lat)
-py_84137,2026-05-05,160,PLN,succeeded,paweł.wojcik1@example.com,Karnet: Żabki (4-6 lat)
+py_84137,2026-05-05,160,PLN,succeeded,pawel.wojcik1@example.com,Karnet: Żabki (4-6 lat)
 py_84060,2026-03-05,220,PLN,succeeded,kasia.kowalska16@example.com,Karnet: Dorośli doskonalący
 py_84114,2026-04-04,200,PLN,succeeded,ola.krawczyk27@example.com,Karnet: Młodzież
 py_84129,2026-04-05,220,PLN,succeeded,karolina.kaminska49@example.com,Karnet: Dorośli początkujący
@@ -69,7 +69,7 @@ py_84004,2026-02-01,180,PLN,succeeded,filip.wojcik3@example.com,Karnet: Delfinki
 py_84198,2026-06-04,180,PLN,succeeded,kasia.kowalska13@example.com,Karnet: Delfinki (7-9 lat)
 py_84151,2026-05-03,220,PLN,succeeded,kasia.kowalska16@example.com,Karnet: Dorośli doskonalący
 py_84056,2026-03-03,180,PLN,succeeded,magda.wojcik12@example.com,Karnet: Delfinki (7-9 lat)
-py_84048,2026-03-01,220,PLN,succeeded,michał.szymanski2@example.com,Karnet: Dorośli początkujący
+py_84048,2026-03-01,220,PLN,succeeded,michal.szymanski2@example.com,Karnet: Dorośli początkujący
 py_84105,2026-04-06,180,PLN,succeeded,magda.mazur17@example.com,Karnet: Rekiny (10-12 lat)
 py_84205,2026-06-03,200,PLN,succeeded,piotr.piotrowska23@example.com,Karnet: Młodzież
 py_84013,2026-02-02,180,PLN,succeeded,magda.mazur17@example.com,Karnet: Rekiny (10-12 lat)
@@ -78,7 +78,7 @@ py_84012,2026-02-05,220,PLN,succeeded,kasia.kowalska16@example.com,Karnet: Doro�
 py_84134,2026-04-02,220,PLN,succeeded,anna.kowalska56@example.com,Karnet: Dorośli doskonalący
 py_84001,2026-02-04,180,PLN,succeeded,ewa.lewandowski0@example.com,Karnet: Delfinki (7-9 lat)
 py_84022,2026-02-03,200,PLN,succeeded,ola.krawczyk27@example.com,Karnet: Młodzież
-py_84047,2026-03-04,160,PLN,succeeded,paweł.wojcik1@example.com,Karnet: Żabki (4-6 lat)
+py_84047,2026-03-04,160,PLN,succeeded,pawel.wojcik1@example.com,Karnet: Żabki (4-6 lat)
 py_84050,2026-03-02,200,PLN,refunded,anna.piotrowska6@example.com,Karnet: Młodzież
 py_84051,2026-03-01,180,PLN,succeeded,tomek.krawczyk7@example.com,Karnet: Delfinki (7-9 lat)
 py_84187,2026-06-06,180,PLN,succeeded,ewa.lewandowski0@example.com,Karnet: Delfinki (7-9 lat)
@@ -87,7 +87,7 @@ py_84131,2026-04-02,220,PLN,succeeded,kuba.kaminska51@example.com,Karnet: Doroś
 py_84126,2026-04-03,180,PLN,succeeded,kasia.wisniewski44@example.com,Karnet: Delfinki (7-9 lat)
 py_84197,2026-06-01,180,PLN,succeeded,magda.wojcik12@example.com,Karnet: Delfinki (7-9 lat)
 py_84176,2026-05-03,220,PLN,succeeded,karolina.kaminska49@example.com,Karnet: Dorośli początkujący
-py_84003,2026-02-04,220,PLN,succeeded,michał.szymanski2@example.com,Karnet: Dorośli początkujący
+py_84003,2026-02-04,220,PLN,succeeded,michal.szymanski2@example.com,Karnet: Dorośli początkujący
 py_84232,2026-05-24,300,PLN,succeeded,kasia.kowalska18@example.com,Wpłata indywidualna
 py_84091,2026-04-01,180,PLN,succeeded,ewa.lewandowski0@example.com,Karnet: Delfinki (7-9 lat)
 py_84017,2026-02-06,220,PLN,succeeded,natalia.jankowska21@example.com,Karnet: Dorośli początkujący
@@ -97,12 +97,12 @@ py_84150,2026-05-04,220,PLN,succeeded,filip.mazur15@example.com,Karnet: Dorośli
 py_84221,2026-06-02,220,PLN,succeeded,karolina.kaminska49@example.com,Karnet: Dorośli początkujący
 py_84089,2026-03-04,200,PLN,succeeded,kasia.krawczyk58@example.com,Karnet: Młodzież
 py_84193,2026-06-04,180,PLN,succeeded,tomek.krawczyk7@example.com,Karnet: Delfinki (7-9 lat)
-py_84239,2026-05-06,300,PLN,succeeded,paweł.kaminska43@example.com,Wpłata indywidualna
-py_84138,2026-05-06,220,PLN,succeeded,michał.szymanski2@example.com,Karnet: Dorośli początkujący
+py_84239,2026-05-06,300,PLN,succeeded,pawel.kaminska43@example.com,Wpłata indywidualna
+py_84138,2026-05-06,220,PLN,succeeded,michal.szymanski2@example.com,Karnet: Dorośli początkujący
 py_84073,2026-03-01,220,PLN,succeeded,marek.kaminska31@example.com,Karnet: Dorośli początkujący
-py_84021,2026-02-04,220,PLN,succeeded,paweł.wojcik25@example.com,Karnet: Dorośli początkujący
-py_84092,2026-04-02,160,PLN,succeeded,paweł.wojcik1@example.com,Karnet: Żabki (4-6 lat)
-py_84219,2026-06-03,220,PLN,succeeded,paweł.jankowska46@example.com,Karnet: Dorośli początkujący
+py_84021,2026-02-04,220,PLN,succeeded,pawel.wojcik25@example.com,Karnet: Dorośli początkujący
+py_84092,2026-04-02,160,PLN,succeeded,pawel.wojcik1@example.com,Karnet: Żabki (4-6 lat)
+py_84219,2026-06-03,220,PLN,succeeded,pawel.jankowska46@example.com,Karnet: Dorośli początkujący
 py_84031,2026-02-03,200,PLN,succeeded,natalia.kowalska41@example.com,Karnet: Młodzież
 py_84027,2026-02-05,180,PLN,succeeded,adam.grabowski36@example.com,Karnet: Rekiny (10-12 lat)
 py_84064,2026-03-04,220,PLN,succeeded,natalia.jankowska21@example.com,Karnet: Dorośli początkujący
@@ -111,7 +111,7 @@ py_84184,2026-05-05,180,PLN,succeeded,marek.dabrowska57@example.com,Karnet: Delf
 py_84101,2026-04-01,200,PLN,succeeded,ewa.dabrowska11@example.com,Karnet: Młodzież
 py_84201,2026-06-01,180,PLN,succeeded,magda.mazur17@example.com,Karnet: Rekiny (10-12 lat)
 py_84065,2026-03-02,220,PLN,succeeded,marek.lewandowski22@example.com,Karnet: Dorośli początkujący
-py_84033,2026-02-03,180,PLN,succeeded,paweł.kaminska43@example.com,Karnet: Delfinki (7-9 lat)
+py_84033,2026-02-03,180,PLN,succeeded,pawel.kaminska43@example.com,Karnet: Delfinki (7-9 lat)
 py_84132,2026-04-02,160,PLN,succeeded,adam.kowalska54@example.com,Karnet: Żabki (4-6 lat)
 py_84044,2026-02-05,180,PLN,succeeded,marek.dabrowska57@example.com,Karnet: Delfinki (7-9 lat)
 py_84043,2026-02-05,220,PLN,succeeded,anna.kowalska56@example.com,Karnet: Dorośli doskonalący
@@ -151,7 +151,7 @@ py_84225,2026-06-05,220,PLN,succeeded,magda.nowak53@example.com,Karnet: Dorośli
 py_84028,2026-02-01,160,PLN,succeeded,kuba.kozlowski37@example.com,Karnet: Żabki (4-6 lat)
 py_84141,2026-05-06,180,PLN,succeeded,karolina.nowak5@example.com,Karnet: Rekiny (10-12 lat)
 py_84214,2026-06-03,160,PLN,succeeded,ola.krawczyk39@example.com,Karnet: Żabki (4-6 lat)
-py_84173,2026-05-04,220,PLN,succeeded,paweł.jankowska46@example.com,Karnet: Dorośli początkujący
+py_84173,2026-05-04,220,PLN,succeeded,pawel.jankowska46@example.com,Karnet: Dorośli początkujący
 py_84016,2026-02-06,180,PLN,succeeded,wojtek.kowalska20@example.com,Karnet: Rekiny (10-12 lat)
 py_84230,2026-06-02,200,PLN,succeeded,kasia.krawczyk58@example.com,Karnet: Młodzież
 py_84034,2026-02-05,180,PLN,succeeded,kasia.wisniewski44@example.com,Karnet: Delfinki (7-9 lat)
@@ -159,18 +159,18 @@ py_84146,2026-05-04,220,PLN,succeeded,marek.kowalska10@example.com,Karnet: Doro�
 py_84207,2026-06-03,160,PLN,succeeded,anna.nowak28@example.com,Karnet: Żabki (4-6 lat)
 py_84009,2026-02-02,180,PLN,succeeded,magda.wojcik12@example.com,Karnet: Delfinki (7-9 lat)
 py_84026,2026-02-04,200,PLN,succeeded,piotr.jankowska33@example.com,Karnet: Młodzież
-py_84113,2026-04-01,220,PLN,succeeded,paweł.wojcik25@example.com,Karnet: Dorośli początkujący
+py_84113,2026-04-01,220,PLN,succeeded,pawel.wojcik25@example.com,Karnet: Dorośli początkujący
 py_84058,2026-03-03,200,PLN,succeeded,wojtek.grabowski14@example.com,Karnet: Młodzież
 py_84122,2026-04-05,160,PLN,succeeded,ola.krawczyk39@example.com,Karnet: Żabki (4-6 lat)
 py_84149,2026-05-06,180,PLN,succeeded,kasia.kowalska13@example.com,Karnet: Delfinki (7-9 lat)
 py_84099,2026-04-05,180,PLN,refunded,tomek.lewandowski9@example.com,Karnet: Rekiny (10-12 lat)
 py_84008,2026-02-01,200,PLN,succeeded,ewa.dabrowska11@example.com,Karnet: Młodzież
 py_84015,2026-02-05,160,PLN,succeeded,natalia.piotrowska19@example.com,Karnet: Żabki (4-6 lat)
-py_84093,2026-04-02,220,PLN,succeeded,michał.szymanski2@example.com,Karnet: Dorośli początkujący
+py_84093,2026-04-02,220,PLN,succeeded,michal.szymanski2@example.com,Karnet: Dorośli początkujący
 py_84118,2026-04-03,160,PLN,succeeded,karolina.kowalska35@example.com,Karnet: Żabki (4-6 lat)
 py_84024,2026-02-02,220,PLN,succeeded,marek.kaminska31@example.com,Karnet: Dorośli początkujący
 py_84075,2026-03-04,200,PLN,succeeded,piotr.jankowska33@example.com,Karnet: Młodzież
-py_84035,2026-02-06,220,PLN,succeeded,paweł.jankowska46@example.com,Karnet: Dorośli początkujący
+py_84035,2026-02-06,220,PLN,succeeded,pawel.jankowska46@example.com,Karnet: Dorośli początkujący
 py_84023,2026-02-05,160,PLN,succeeded,anna.nowak28@example.com,Karnet: Żabki (4-6 lat)
 py_84055,2026-03-01,200,PLN,succeeded,ewa.dabrowska11@example.com,Karnet: Młodzież
 py_84191,2026-06-04,220,PLN,succeeded,wojtek.jankowska4@example.com,Karnet: Dorośli doskonalący
@@ -181,12 +181,12 @@ py_84090,2026-03-04,220,PLN,succeeded,tomek.kowalska59@example.com,Karnet: Doro�
 py_84179,2026-05-05,200,PLN,succeeded,ewa.kaminska52@example.com,Karnet: Młodzież
 py_84217,2026-06-06,180,PLN,succeeded,adam.kowalska42@example.com,Karnet: Delfinki (7-9 lat)
 py_84053,2026-03-06,180,PLN,succeeded,tomek.lewandowski9@example.com,Karnet: Rekiny (10-12 lat)
-py_84002,2026-02-04,160,PLN,succeeded,paweł.wojcik1@example.com,Karnet: Żabki (4-6 lat)
+py_84002,2026-02-04,160,PLN,succeeded,pawel.wojcik1@example.com,Karnet: Żabki (4-6 lat)
 py_84069,2026-03-05,220,PLN,succeeded,adam.zielinska26@example.com,Karnet: Dorośli doskonalący
 py_84196,2026-06-02,200,PLN,succeeded,ewa.dabrowska11@example.com,Karnet: Młodzież
 py_84082,2026-03-04,160,PLN,succeeded,ola.nowak45@example.com,Karnet: Żabki (4-6 lat)
 py_84059,2026-03-06,220,PLN,succeeded,filip.mazur15@example.com,Karnet: Dorośli początkujący
-py_84172,2026-05-01,180,PLN,succeeded,paweł.kaminska43@example.com,Karnet: Delfinki (7-9 lat)
+py_84172,2026-05-01,180,PLN,succeeded,pawel.kaminska43@example.com,Karnet: Delfinki (7-9 lat)
 py_84237,2026-03-09,450,PLN,succeeded,magda.wojcik12@example.com,Wpłata indywidualna
 py_84083,2026-03-05,220,PLN,succeeded,julia.kozlowski47@example.com,Karnet: Dorośli doskonalący
 py_84010,2026-02-01,180,PLN,succeeded,kasia.kowalska13@example.com,Karnet: Delfinki (7-9 lat)
@@ -201,7 +201,7 @@ py_84039,2026-02-01,220,PLN,succeeded,kuba.kaminska51@example.com,Karnet: Doroś
 py_84109,2026-04-01,220,PLN,succeeded,natalia.jankowska21@example.com,Karnet: Dorośli początkujący
 py_84121,2026-04-06,200,PLN,succeeded,piotr.krawczyk38@example.com,Karnet: Młodzież
 py_84037,2026-02-03,220,PLN,succeeded,karolina.kaminska49@example.com,Karnet: Dorośli początkujący
-py_84127,2026-04-06,220,PLN,succeeded,paweł.jankowska46@example.com,Karnet: Dorośli początkujący
+py_84127,2026-04-06,220,PLN,succeeded,pawel.jankowska46@example.com,Karnet: Dorośli początkujący
 py_84115,2026-04-01,160,PLN,succeeded,anna.nowak28@example.com,Karnet: Żabki (4-6 lat)
 py_84145,2026-05-01,180,PLN,succeeded,tomek.lewandowski9@example.com,Karnet: Rekiny (10-12 lat)
 py_84222,2026-06-02,220,PLN,succeeded,marek.szymanski50@example.com,Karnet: Dorośli początkujący
@@ -237,4 +237,4 @@ py_84087,2026-03-02,220,PLN,succeeded,anna.kowalska56@example.com,Karnet: Doroś
 py_84112,2026-04-02,220,PLN,succeeded,maja.kozlowski24@example.com,Karnet: Dorośli początkujący
 py_84167,2026-05-06,180,PLN,succeeded,adam.grabowski36@example.com,Karnet: Rekiny (10-12 lat)
 py_84227,2026-06-06,180,PLN,succeeded,anna.mazur55@example.com,Karnet: Delfinki (7-9 lat)
-py_84080,2026-03-05,180,PLN,succeeded,paweł.kaminska43@example.com,Karnet: Delfinki (7-9 lat)
+py_84080,2026-03-05,180,PLN,succeeded,pawel.kaminska43@example.com,Karnet: Delfinki (7-9 lat)

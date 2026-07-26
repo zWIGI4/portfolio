@@ -1,8 +1,9 @@
 # automationlab — data & automation, delivered as ready-to-use files
 
 I build **small, finished tools**: cleaned datasets, web-scraped data, Excel
-dashboards, PDF-to-Excel extractors, one-off Python scripts. You get a file that
-works — nothing to install, nothing to configure on your side.
+dashboards, quoting and pricing tools, PDF-to-Excel extractors, one-off Python
+scripts. You get a file that works — nothing to install, nothing to configure on
+your side.
 
 **Stack:** Python · pandas · openpyxl · BeautifulSoup · pdfplumber
 

@@ -35,10 +35,21 @@ GROUPS = [
     ("Dorośli doskonalący", 220, "sob 9:00"),
 ]
 
+PL_TO_ASCII = str.maketrans({
+    "ą": "a", "ć": "c", "ę": "e", "ł": "l", "ń": "n",
+    "ó": "o", "ś": "s", "ź": "z", "ż": "z",
+})
+
+
+def ascii_slug(s):
+    """Polish letters -> ASCII, lowercased. Used to build valid e-mail addresses."""
+    return s.lower().translate(PL_TO_ASCII)
+
+
 def random_client(i):
     first = random.choice(FIRST_NAMES)
     last = random.choice(LAST_NAMES)
-    return f"{first} {last}", f"{first.lower()}.{last.lower().replace('ą','a').replace('ś','s').replace('ż','z').replace('ź','z').replace('ó','o').replace('ł','l').replace('ę','e').replace('ć','c').replace('ń','n')}{i}@example.com"
+    return f"{first} {last}", f"{ascii_slug(first)}.{ascii_slug(last)}{i}@example.com"
 
 # 60 clients assigned to groups
 clients = []
