@@ -1,0 +1,9 @@
+# Install everything: pip install -r requirements.txt
+# Each project only needs a subset — see its README.
+
+pandas>=2.0          # 01
+openpyxl>=3.1        # 01, 02, 03, 04, 05, 06, 07
+requests>=2.31       # 02
+beautifulsoup4>=4.12 # 02
+pdfplumber>=0.10     # 04
+reportlab>=4.0       # 04 (only for generating the sample invoices)

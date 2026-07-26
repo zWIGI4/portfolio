@@ -1,0 +1,41 @@
+id,deweloper,nazwa_inwestycji,miasto,dzielnica,liczba_lokali,status,termin_oddania,cena_za_m2
+INW-100,Apartamenty Plus,Słoneczne Zacisze,Wrocław,Krzyki,267,oddana,2026-Q2,9552
+INW-101,Nowe Osiedla SA,Zielone Wzgórza,Gdańsk,Wrzeszcz,142,w budowie,2028-Q1,16657
+INW-102,Bud-Rem-Invest,Miejskie Zacisze,Warszawa,Bemowo,278,oddana,2026-Q3,9880
+INW-103,Osiedla Jutra,Słoneczne Bulwary,Warszawa,Mokotów,256,w budowie,2028-Q3,16075
+INW-104,Osiedla Jutra,Ciche Ogrody etap I,Gdańsk,Wrzeszcz,62,w budowie,2026-Q1,11506
+INW-105,GrupaDom,Parkowe Zacisze,Gdańsk,Oliwa,98,oddana,2027-Q3,15483
+INW-106,Bud-Rem-Invest,Ciche Aleje etap II,Gdańsk,Wrzeszcz,71,w budowie,2028-Q4,9546
+INW-107,GrupaDom,Ciche Tarasy,Poznań,Rataje,187,oddana,2028-Q1,12460
+INW-108,Bud-Rem-Invest,Miejskie Ogrody,Wrocław,Psie Pole,180,w budowie,2026-Q2,10575
+INW-109,MegaBud,Słoneczne Zacisze etap III,Warszawa,Bemowo,147,w sprzedaży,2026-Q1,15178
+INW-110,GrupaDom,Ciche Aleje etap I,Kraków,Podgórze,248,w sprzedaży,2028-Q4,10440
+INW-111,Nowe Osiedla SA,Nowe Tarasy,Wrocław,Fabryczna,151,w budowie,2027-Q1,15039
+INW-112,Nowe Osiedla SA,Miejskie Ogrody,Gdańsk,Oliwa,95,oddana,2028-Q4,9963
+INW-113,Zielona Przystań Development,Słoneczne Wzgórza,Wrocław,Fabryczna,272,oddana,2027-Q3,11774
+INW-114,Apartamenty Plus,Parkowe Aleje etap III,Warszawa,Wola,36,w sprzedaży,2028-Q3,13592
+INW-115,GrupaDom,Parkowe Zacisze etap II,Kraków,Bronowice,72,w sprzedaży,2026-Q2,9914
+INW-116,Bud-Rem-Invest,Zielone Bulwary etap II,Poznań,Jeżyce,276,w budowie,2028-Q2,12474
+INW-117,Osiedla Jutra,Słoneczne Zacisze etap III,Poznań,Grunwald,282,oddana,2026-Q1,15851
+INW-118,Osiedla Jutra,Ciche Tarasy etap III,Kraków,Bronowice,153,oddana,2028-Q3,10186
+INW-119,Osiedla Jutra,Słoneczne Zacisze etap III,Wrocław,Psie Pole,305,w sprzedaży,2028-Q1,18436
+INW-120,Zielona Przystań Development,Parkowe Tarasy,Wrocław,Fabryczna,173,oddana,2028-Q2,10544
+INW-121,Nowe Osiedla SA,Parkowe Wzgórza,Wrocław,Fabryczna,239,w budowie,2026-Q1,16840
+INW-122,Apartamenty Plus,Parkowe Aleje,Gdańsk,Jasień,286,w sprzedaży,2027-Q1,13194
+INW-123,GrupaDom,Zielone Tarasy,Warszawa,Ursynów,231,oddana,2027-Q4,13373
+INW-124,Nowe Osiedla SA,Ciche Zacisze etap I,Warszawa,Białołęka,112,w sprzedaży,2027-Q2,16868
+INW-125,MegaBud,Miejskie Bulwary,Poznań,Rataje,158,w budowie,2027-Q4,15823
+INW-126,GrupaDom,Nowe Aleje etap III,Warszawa,Ursynów,127,w sprzedaży,2027-Q2,10985
+INW-127,Apartamenty Plus,Parkowe Ogrody etap II,Poznań,Rataje,260,w budowie,2026-Q4,12872
+INW-128,Bud-Rem-Invest,Miejskie Wzgórza etap III,Kraków,Podgórze,38,w sprzedaży,2028-Q3,12013
+INW-129,MegaBud,Miejskie Aleje etap III,Wrocław,Fabryczna,104,w sprzedaży,2027-Q4,16657
+INW-130,MegaBud,Ciche Aleje,Kraków,Zabłocie,163,w budowie,2026-Q2,10063
+INW-131,Nowe Osiedla SA,Nowe Bulwary,Wrocław,Krzyki,280,oddana,2026-Q4,19459
+INW-132,Zielona Przystań Development,Ciche Bulwary,Warszawa,Wola,72,w sprzedaży,2026-Q4,15571
+INW-133,Zielona Przystań Development,Zielone Wzgórza etap III,Gdańsk,Wrzeszcz,182,w budowie,2027-Q4,18542
+INW-134,Apartamenty Plus,Słoneczne Ogrody,Poznań,Grunwald,61,w budowie,2027-Q2,11992
+INW-135,Zielona Przystań Development,Zielone Zacisze,Poznań,Rataje,275,w sprzedaży,2028-Q3,12001
+INW-136,Osiedla Jutra,Nowe Ogrody etap II,Warszawa,Mokotów,58,w budowie,2028-Q1,12609
+INW-137,Zielona Przystań Development,Nowe Wzgórza etap I,Warszawa,Białołęka,164,oddana,2028-Q4,12091
+INW-138,Bud-Rem-Invest,Zielone Tarasy etap II,Poznań,Jeżyce,125,oddana,2026-Q4,10783
+INW-139,Zielona Przystań Development,Nowe Ogrody etap I,Wrocław,Psie Pole,113,w budowie,2028-Q3,17590

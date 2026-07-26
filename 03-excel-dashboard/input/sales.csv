@@ -1,0 +1,261 @@
+nr_zamowienia,data,kategoria,kanal,ilosc,cena_jedn,wartosc
+ZAM-1035,2025-01-01,Zabawki,sklep online,3,106.77,320.31
+ZAM-1077,2025-01-02,Moda,marketplace,2,163.74,327.48
+ZAM-1180,2025-01-02,Sport,marketplace,4,313.99,1255.96
+ZAM-1044,2025-01-04,Elektronika,sklep online,1,393.63,393.63
+ZAM-1068,2025-01-05,Sport,sklep online,5,395.59,1977.95
+ZAM-1147,2025-01-07,Sport,marketplace,4,159.86,639.44
+ZAM-1135,2025-01-10,Kosmetyki,marketplace,5,46.38,231.9
+ZAM-1043,2025-01-11,Zabawki,sklep online,5,78.85,394.25
+ZAM-1237,2025-01-12,Kosmetyki,stacjonarnie,4,65.06,260.24
+ZAM-1109,2025-01-13,Elektronika,stacjonarnie,2,801.33,1602.66
+ZAM-1093,2025-01-20,Elektronika,stacjonarnie,5,504.66,2523.3
+ZAM-1064,2025-01-21,Zabawki,stacjonarnie,1,99.28,99.28
+ZAM-1137,2025-01-21,Elektronika,sklep online,2,377.65,755.3
+ZAM-1215,2025-01-23,Moda,marketplace,4,173.55,694.2
+ZAM-1226,2025-01-24,Moda,marketplace,1,114.24,114.24
+ZAM-1076,2025-01-27,Elektronika,sklep online,4,717.85,2871.4
+ZAM-1019,2025-01-29,Dom i ogród,marketplace,1,281.89,281.89
+ZAM-1124,2025-02-01,Dom i ogród,stacjonarnie,4,192.13,768.52
+ZAM-1090,2025-02-05,Moda,marketplace,3,164.37,493.11
+ZAM-1209,2025-02-05,Moda,stacjonarnie,4,120.94,483.76
+ZAM-1185,2025-02-06,Elektronika,stacjonarnie,2,698.02,1396.04
+ZAM-1069,2025-02-07,Zabawki,sklep online,2,108.64,217.28
+ZAM-1110,2025-02-07,Sport,stacjonarnie,4,365.94,1463.76
+ZAM-1011,2025-02-10,Zabawki,stacjonarnie,3,143.58,430.74
+ZAM-1037,2025-02-10,Elektronika,stacjonarnie,4,710.65,2842.6
+ZAM-1003,2025-02-14,Zabawki,sklep online,4,57.43,229.72
+ZAM-1190,2025-02-16,Dom i ogród,sklep online,5,234.82,1174.1
+ZAM-1224,2025-02-16,Sport,stacjonarnie,1,332.74,332.74
+ZAM-1159,2025-02-17,Moda,sklep online,2,130.23,260.46
+ZAM-1204,2025-02-17,Dom i ogród,sklep online,1,207.67,207.67
+ZAM-1054,2025-02-20,Elektronika,sklep online,5,721.45,3607.25
+ZAM-1178,2025-02-20,Dom i ogród,sklep online,2,165.16,330.32
+ZAM-1014,2025-02-21,Sport,marketplace,3,251.7,755.1
+ZAM-1225,2025-02-21,Sport,sklep online,2,315.22,630.44
+ZAM-1170,2025-02-22,Elektronika,marketplace,5,423.54,2117.7
+ZAM-1073,2025-02-23,Dom i ogród,sklep online,3,132.93,398.79
+ZAM-1087,2025-02-25,Sport,sklep online,1,358.67,358.67
+ZAM-1252,2025-02-25,Kosmetyki,stacjonarnie,2,81.6,163.2
+ZAM-1139,2025-02-28,Zabawki,marketplace,2,104.22,208.44
+ZAM-1141,2025-02-28,Dom i ogród,sklep online,3,131.35,394.05
+ZAM-1256,2025-03-01,Elektronika,sklep online,2,749.12,1498.24
+ZAM-1145,2025-03-03,Zabawki,marketplace,1,91.5,91.5
+ZAM-1202,2025-03-04,Elektronika,stacjonarnie,5,701.63,3508.15
+ZAM-1250,2025-03-05,Sport,stacjonarnie,3,309.63,928.89
+ZAM-1038,2025-03-06,Dom i ogród,sklep online,4,312.52,1250.08
+ZAM-1217,2025-03-06,Zabawki,sklep online,5,89.86,449.3
+ZAM-1130,2025-03-07,Zabawki,marketplace,5,56.91,284.55
+ZAM-1067,2025-03-09,Kosmetyki,sklep online,3,80.41,241.23
+ZAM-1201,2025-03-09,Moda,marketplace,4,198.84,795.36
+ZAM-1132,2025-03-11,Sport,marketplace,2,145.28,290.56
+ZAM-1255,2025-03-13,Elektronika,marketplace,1,434.36,434.36
+ZAM-1219,2025-03-15,Sport,marketplace,2,151.75,303.5
+ZAM-1230,2025-03-15,Dom i ogród,marketplace,4,245.79,983.16
+ZAM-1112,2025-03-17,Kosmetyki,sklep online,1,116.98,116.98
+ZAM-1080,2025-03-18,Zabawki,stacjonarnie,1,144.14,144.14
+ZAM-1026,2025-03-20,Kosmetyki,marketplace,2,108.53,217.06
+ZAM-1259,2025-03-21,Sport,stacjonarnie,1,352.09,352.09
+ZAM-1031,2025-03-22,Sport,stacjonarnie,1,383.81,383.81
+ZAM-1179,2025-03-22,Dom i ogród,sklep online,2,227.23,454.46
+ZAM-1203,2025-03-23,Moda,marketplace,5,73.97,369.85
+ZAM-1078,2025-03-24,Kosmetyki,marketplace,4,88.34,353.36
+ZAM-1195,2025-03-24,Moda,marketplace,4,171.89,687.56
+ZAM-1015,2025-03-25,Moda,marketplace,3,102.17,306.51
+ZAM-1085,2025-03-25,Dom i ogród,stacjonarnie,4,113.35,453.4
+ZAM-1246,2025-03-26,Moda,marketplace,4,211.3,845.2
+ZAM-1106,2025-03-28,Kosmetyki,stacjonarnie,1,65.84,65.84
+ZAM-1062,2025-04-06,Elektronika,sklep online,5,306.7,1533.5
+ZAM-1199,2025-04-07,Zabawki,marketplace,3,121.24,363.72
+ZAM-1048,2025-04-08,Elektronika,marketplace,1,625.85,625.85
+ZAM-1208,2025-04-08,Zabawki,sklep online,5,134.6,673.0
+ZAM-1111,2025-04-10,Kosmetyki,sklep online,4,83.53,334.12
+ZAM-1005,2025-04-12,Kosmetyki,marketplace,5,77.24,386.2
+ZAM-1143,2025-04-12,Elektronika,stacjonarnie,5,642.93,3214.65
+ZAM-1088,2025-04-13,Sport,sklep online,3,212.57,637.71
+ZAM-1004,2025-04-22,Dom i ogród,stacjonarnie,5,238.04,1190.2
+ZAM-1059,2025-04-22,Elektronika,sklep online,5,667.3,3336.5
+ZAM-1240,2025-04-23,Kosmetyki,stacjonarnie,2,94.15,188.3
+ZAM-1002,2025-04-25,Dom i ogród,stacjonarnie,1,254.17,254.17
+ZAM-1089,2025-04-25,Elektronika,marketplace,2,485.17,970.34
+ZAM-1136,2025-04-25,Kosmetyki,stacjonarnie,1,107.62,107.62
+ZAM-1184,2025-04-26,Kosmetyki,sklep online,2,118.31,236.62
+ZAM-1248,2025-04-26,Kosmetyki,stacjonarnie,4,123.25,493.0
+ZAM-1167,2025-04-27,Moda,stacjonarnie,2,115.53,231.06
+ZAM-1163,2025-04-29,Elektronika,stacjonarnie,2,440.4,880.8
+ZAM-1055,2025-05-02,Dom i ogród,sklep online,4,212.9,851.6
+ZAM-1214,2025-05-03,Zabawki,marketplace,4,79.22,316.88
+ZAM-1157,2025-05-04,Kosmetyki,sklep online,4,83.04,332.16
+ZAM-1144,2025-05-05,Elektronika,stacjonarnie,3,729.16,2187.48
+ZAM-1053,2025-05-08,Elektronika,stacjonarnie,4,706.33,2825.32
+ZAM-1231,2025-05-11,Kosmetyki,marketplace,1,117.51,117.51
+ZAM-1092,2025-05-14,Dom i ogród,marketplace,5,315.91,1579.55
+ZAM-1032,2025-05-15,Zabawki,sklep online,2,108.83,217.66
+ZAM-1251,2025-05-15,Zabawki,marketplace,4,142.82,571.28
+ZAM-1039,2025-05-16,Zabawki,sklep online,5,99.7,498.5
+ZAM-1057,2025-05-16,Sport,stacjonarnie,3,243.67,731.01
+ZAM-1030,2025-05-17,Kosmetyki,marketplace,3,51.37,154.11
+ZAM-1210,2025-05-17,Elektronika,stacjonarnie,3,662.07,1986.21
+ZAM-1020,2025-05-18,Elektronika,stacjonarnie,2,763.09,1526.18
+ZAM-1151,2025-05-18,Moda,sklep online,2,191.63,383.26
+ZAM-1018,2025-05-19,Kosmetyki,marketplace,5,60.45,302.25
+ZAM-1119,2025-05-22,Zabawki,marketplace,4,121.69,486.76
+ZAM-1134,2025-05-23,Sport,marketplace,3,352.42,1057.26
+ZAM-1152,2025-05-23,Sport,stacjonarnie,2,330.13,660.26
+ZAM-1232,2025-05-28,Kosmetyki,marketplace,5,55.27,276.35
+ZAM-1181,2025-05-30,Elektronika,marketplace,2,425.58,851.16
+ZAM-1099,2025-06-03,Zabawki,marketplace,3,126.02,378.06
+ZAM-1103,2025-06-05,Moda,stacjonarnie,2,133.9,267.8
+ZAM-1174,2025-06-05,Elektronika,marketplace,2,333.96,667.92
+ZAM-1187,2025-06-05,Kosmetyki,stacjonarnie,4,121.18,484.72
+ZAM-1160,2025-06-06,Kosmetyki,stacjonarnie,5,73.0,365.0
+ZAM-1142,2025-06-09,Zabawki,stacjonarnie,4,96.84,387.36
+ZAM-1060,2025-06-10,Elektronika,stacjonarnie,1,585.46,585.46
+ZAM-1094,2025-06-10,Sport,sklep online,5,391.84,1959.2
+ZAM-1021,2025-06-11,Dom i ogród,stacjonarnie,4,193.46,773.84
+ZAM-1197,2025-06-11,Moda,marketplace,3,88.69,266.07
+ZAM-1121,2025-06-13,Zabawki,sklep online,1,68.94,68.94
+ZAM-1154,2025-06-16,Dom i ogród,marketplace,4,153.82,615.28
+ZAM-1133,2025-06-17,Dom i ogród,marketplace,4,178.6,714.4
+ZAM-1244,2025-06-17,Kosmetyki,sklep online,4,56.75,227.0
+ZAM-1045,2025-06-19,Elektronika,stacjonarnie,5,398.52,1992.6
+ZAM-1162,2025-06-19,Moda,marketplace,4,111.01,444.04
+ZAM-1086,2025-06-20,Sport,stacjonarnie,2,202.44,404.88
+ZAM-1008,2025-06-22,Elektronika,marketplace,1,475.16,475.16
+ZAM-1051,2025-06-23,Elektronika,stacjonarnie,2,373.46,746.92
+ZAM-1220,2025-06-23,Zabawki,marketplace,4,124.18,496.72
+ZAM-1247,2025-06-23,Elektronika,sklep online,4,789.96,3159.84
+ZAM-1155,2025-06-24,Moda,marketplace,5,172.97,864.85
+ZAM-1075,2025-06-25,Dom i ogród,marketplace,3,217.17,651.51
+ZAM-1009,2025-06-26,Zabawki,stacjonarnie,3,141.17,423.51
+ZAM-1233,2025-06-26,Zabawki,marketplace,3,123.01,369.03
+ZAM-1070,2025-06-28,Elektronika,sklep online,2,469.54,939.08
+ZAM-1194,2025-06-28,Sport,sklep online,3,216.76,650.28
+ZAM-1126,2025-06-30,Moda,marketplace,4,194.9,779.6
+ZAM-1236,2025-07-03,Zabawki,marketplace,3,161.21,483.63
+ZAM-1012,2025-07-05,Zabawki,sklep online,2,130.09,260.18
+ZAM-1036,2025-07-05,Moda,stacjonarnie,2,80.34,160.68
+ZAM-1082,2025-07-06,Elektronika,sklep online,3,383.44,1150.32
+ZAM-1249,2025-07-07,Elektronika,stacjonarnie,4,277.52,1110.08
+ZAM-1140,2025-07-08,Dom i ogród,stacjonarnie,5,239.17,1195.85
+ZAM-1034,2025-07-11,Dom i ogród,stacjonarnie,5,313.96,1569.8
+ZAM-1213,2025-07-13,Sport,stacjonarnie,3,361.57,1084.71
+ZAM-1176,2025-07-14,Sport,stacjonarnie,4,210.5,842.0
+ZAM-1229,2025-07-15,Zabawki,stacjonarnie,2,107.75,215.5
+ZAM-1122,2025-07-16,Kosmetyki,sklep online,2,101.34,202.68
+ZAM-1235,2025-07-16,Sport,stacjonarnie,1,194.62,194.62
+ZAM-1095,2025-07-17,Zabawki,stacjonarnie,2,81.51,163.02
+ZAM-1216,2025-07-17,Kosmetyki,sklep online,2,83.61,167.22
+ZAM-1257,2025-07-18,Sport,stacjonarnie,3,309.01,927.03
+ZAM-1129,2025-07-19,Moda,marketplace,4,176.28,705.12
+ZAM-1056,2025-07-25,Elektronika,marketplace,2,474.65,949.3
+ZAM-1063,2025-07-26,Elektronika,stacjonarnie,5,402.96,2014.8
+ZAM-1100,2025-07-26,Kosmetyki,sklep online,3,88.57,265.71
+ZAM-1260,2025-07-28,Moda,sklep online,1,171.4,171.4
+ZAM-1123,2025-08-01,Sport,marketplace,3,275.25,825.75
+ZAM-1101,2025-08-04,Kosmetyki,sklep online,4,98.89,395.56
+ZAM-1049,2025-08-05,Sport,sklep online,4,360.05,1440.2
+ZAM-1113,2025-08-06,Dom i ogród,stacjonarnie,2,281.69,563.38
+ZAM-1177,2025-08-08,Moda,stacjonarnie,5,161.43,807.15
+ZAM-1227,2025-08-09,Dom i ogród,stacjonarnie,2,222.73,445.46
+ZAM-1189,2025-08-10,Kosmetyki,sklep online,3,92.71,278.13
+ZAM-1096,2025-08-12,Elektronika,stacjonarnie,5,769.81,3849.05
+ZAM-1071,2025-08-13,Zabawki,stacjonarnie,3,120.06,360.18
+ZAM-1120,2025-08-14,Elektronika,marketplace,3,396.63,1189.89
+ZAM-1171,2025-08-14,Moda,marketplace,2,211.03,422.06
+ZAM-1218,2025-08-14,Elektronika,sklep online,5,761.64,3808.2
+ZAM-1052,2025-08-18,Dom i ogród,marketplace,4,147.63,590.52
+ZAM-1042,2025-08-20,Elektronika,marketplace,2,391.34,782.68
+ZAM-1115,2025-08-22,Dom i ogród,stacjonarnie,4,252.2,1008.8
+ZAM-1022,2025-08-23,Dom i ogród,stacjonarnie,3,138.16,414.48
+ZAM-1010,2025-08-24,Zabawki,marketplace,1,159.1,159.1
+ZAM-1192,2025-08-29,Zabawki,sklep online,4,152.94,611.76
+ZAM-1207,2025-08-30,Dom i ogród,marketplace,4,227.07,908.28
+ZAM-1118,2025-09-01,Sport,stacjonarnie,3,330.47,991.41
+ZAM-1172,2025-09-02,Elektronika,sklep online,1,486.38,486.38
+ZAM-1150,2025-09-05,Sport,stacjonarnie,4,349.99,1399.96
+ZAM-1165,2025-09-05,Moda,stacjonarnie,5,212.63,1063.15
+ZAM-1046,2025-09-06,Dom i ogród,stacjonarnie,5,136.58,682.9
+ZAM-1128,2025-09-07,Dom i ogród,sklep online,3,202.14,606.42
+ZAM-1222,2025-09-07,Zabawki,sklep online,1,120.69,120.69
+ZAM-1239,2025-09-12,Moda,marketplace,2,159.42,318.84
+ZAM-1117,2025-09-16,Sport,sklep online,5,249.72,1248.6
+ZAM-1025,2025-09-18,Sport,sklep online,1,331.53,331.53
+ZAM-1206,2025-09-18,Kosmetyki,marketplace,3,76.9,230.7
+ZAM-1198,2025-09-21,Elektronika,sklep online,5,519.47,2597.35
+ZAM-1114,2025-09-23,Sport,sklep online,1,279.16,279.16
+ZAM-1149,2025-09-25,Kosmetyki,stacjonarnie,3,93.74,281.22
+ZAM-1028,2025-09-28,Moda,sklep online,5,195.95,979.75
+ZAM-1072,2025-09-28,Elektronika,stacjonarnie,5,431.66,2158.3
+ZAM-1061,2025-09-29,Dom i ogród,sklep online,1,315.53,315.53
+ZAM-1161,2025-09-29,Moda,stacjonarnie,4,215.51,862.04
+ZAM-1017,2025-10-01,Kosmetyki,marketplace,2,55.73,111.46
+ZAM-1168,2025-10-01,Dom i ogród,sklep online,3,117.83,353.49
+ZAM-1164,2025-10-02,Kosmetyki,stacjonarnie,2,58.09,116.18
+ZAM-1127,2025-10-03,Kosmetyki,sklep online,5,109.19,545.95
+ZAM-1212,2025-10-03,Sport,stacjonarnie,3,219.76,659.28
+ZAM-1040,2025-10-04,Kosmetyki,marketplace,2,101.89,203.78
+ZAM-1188,2025-10-04,Sport,sklep online,4,153.24,612.96
+ZAM-1245,2025-10-04,Moda,marketplace,5,144.26,721.3
+ZAM-1081,2025-10-10,Dom i ogród,marketplace,4,135.53,542.12
+ZAM-1074,2025-10-11,Dom i ogród,sklep online,3,168.86,506.58
+ZAM-1169,2025-10-11,Moda,marketplace,2,163.85,327.7
+ZAM-1058,2025-10-12,Kosmetyki,marketplace,4,55.0,220.0
+ZAM-1156,2025-10-12,Elektronika,sklep online,5,781.95,3909.75
+ZAM-1023,2025-10-15,Zabawki,marketplace,3,134.68,404.04
+ZAM-1079,2025-10-15,Elektronika,stacjonarnie,1,310.63,310.63
+ZAM-1253,2025-10-15,Moda,sklep online,5,103.88,519.4
+ZAM-1065,2025-10-17,Zabawki,sklep online,3,154.95,464.85
+ZAM-1186,2025-10-19,Moda,stacjonarnie,4,89.91,359.64
+ZAM-1047,2025-10-23,Sport,marketplace,2,339.14,678.28
+ZAM-1173,2025-10-23,Kosmetyki,stacjonarnie,1,54.75,54.75
+ZAM-1211,2025-10-24,Kosmetyki,marketplace,4,114.68,458.72
+ZAM-1243,2025-10-24,Moda,marketplace,2,84.98,169.96
+ZAM-1024,2025-10-26,Sport,sklep online,3,189.9,569.7
+ZAM-1193,2025-10-27,Sport,marketplace,4,387.83,1551.32
+ZAM-1006,2025-10-29,Moda,sklep online,1,181.27,181.27
+ZAM-1131,2025-10-31,Zabawki,marketplace,1,63.07,63.07
+ZAM-1116,2025-11-01,Moda,stacjonarnie,4,160.22,640.88
+ZAM-1027,2025-11-02,Elektronika,marketplace,4,476.07,1904.28
+ZAM-1166,2025-11-02,Moda,marketplace,1,191.9,191.9
+ZAM-1104,2025-11-07,Kosmetyki,marketplace,3,81.06,243.18
+ZAM-1175,2025-11-07,Zabawki,stacjonarnie,5,78.37,391.85
+ZAM-1153,2025-11-09,Kosmetyki,marketplace,4,70.26,281.04
+ZAM-1102,2025-11-12,Zabawki,sklep online,3,97.86,293.58
+ZAM-1084,2025-11-14,Kosmetyki,sklep online,2,119.76,239.52
+ZAM-1138,2025-11-15,Dom i ogród,stacjonarnie,2,135.26,270.52
+ZAM-1033,2025-11-17,Moda,sklep online,5,159.69,798.45
+ZAM-1183,2025-11-17,Zabawki,stacjonarnie,2,99.92,199.84
+ZAM-1200,2025-11-17,Sport,stacjonarnie,1,185.74,185.74
+ZAM-1223,2025-11-20,Kosmetyki,stacjonarnie,3,125.78,377.34
+ZAM-1107,2025-11-21,Zabawki,sklep online,3,64.09,192.27
+ZAM-1148,2025-11-22,Sport,stacjonarnie,2,246.97,493.94
+ZAM-1254,2025-11-22,Sport,sklep online,3,303.4,910.2
+ZAM-1001,2025-11-24,Elektronika,sklep online,1,670.44,670.44
+ZAM-1242,2025-11-27,Elektronika,sklep online,3,695.85,2087.55
+ZAM-1205,2025-11-28,Dom i ogród,marketplace,4,309.45,1237.8
+ZAM-1241,2025-12-04,Kosmetyki,stacjonarnie,2,94.77,189.54
+ZAM-1013,2025-12-05,Dom i ogród,sklep online,3,320.81,962.43
+ZAM-1146,2025-12-05,Moda,marketplace,1,144.86,144.86
+ZAM-1196,2025-12-06,Sport,sklep online,5,141.69,708.45
+ZAM-1098,2025-12-07,Moda,sklep online,5,117.2,586.0
+ZAM-1083,2025-12-08,Elektronika,marketplace,3,691.26,2073.78
+ZAM-1066,2025-12-09,Kosmetyki,marketplace,3,62.05,186.15
+ZAM-1041,2025-12-10,Kosmetyki,stacjonarnie,3,78.8,236.4
+ZAM-1050,2025-12-11,Kosmetyki,stacjonarnie,1,47.09,47.09
+ZAM-1108,2025-12-11,Moda,sklep online,2,188.15,376.3
+ZAM-1191,2025-12-11,Moda,sklep online,5,77.79,388.95
+ZAM-1105,2025-12-12,Dom i ogród,stacjonarnie,5,210.21,1051.05
+ZAM-1221,2025-12-12,Zabawki,stacjonarnie,4,157.05,628.2
+ZAM-1091,2025-12-14,Zabawki,sklep online,3,155.44,466.32
+ZAM-1029,2025-12-15,Kosmetyki,stacjonarnie,1,99.26,99.26
+ZAM-1228,2025-12-16,Dom i ogród,stacjonarnie,2,145.81,291.62
+ZAM-1097,2025-12-18,Kosmetyki,sklep online,2,72.59,145.18
+ZAM-1238,2025-12-18,Kosmetyki,stacjonarnie,1,118.49,118.49
+ZAM-1158,2025-12-20,Sport,sklep online,4,250.32,1001.28
+ZAM-1234,2025-12-20,Moda,sklep online,4,193.72,774.88
+ZAM-1125,2025-12-23,Elektronika,sklep online,5,475.41,2377.05
+ZAM-1258,2025-12-23,Zabawki,stacjonarnie,4,117.43,469.72
+ZAM-1007,2025-12-24,Sport,sklep online,3,205.36,616.08
+ZAM-1016,2025-12-26,Kosmetyki,sklep online,1,93.17,93.17
+ZAM-1182,2025-12-26,Sport,marketplace,1,313.47,313.47
