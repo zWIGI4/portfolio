@@ -2,7 +2,7 @@
 # Each project only needs a subset — see its README.
 
 pandas>=2.0          # 01
-openpyxl>=3.1        # 01, 02, 03, 04, 05, 06, 07
+openpyxl>=3.1        # 01, 02, 03, 04, 05, 06, 07, 08
 requests>=2.31       # 02
 beautifulsoup4>=4.12 # 02
 pdfplumber>=0.10     # 04

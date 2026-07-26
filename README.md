@@ -86,6 +86,17 @@ cells and costs, profit and the break-even point recalculate inside Excel.
 
 ---
 
+### 08 · B2B quoting system — catalogue → priced quote
+Products come from a dropdown fed by the price list; quantities, discounts and
+the contract term are the only things typed in. Totals, margin, a 12/24/36/48-month
+comparison and a print-ready customer page recalculate by themselves.
+
+[![B2B quoting system](docs/img/quoting.png)](08-quoting-system/)
+
+**[→ 08-quoting-system](08-quoting-system/)** · openpyxl, INDEX/MATCH + data validation
+
+---
+
 ## Running the examples
 
 Every project has the same shape: `input/` (source data) → one script →
@@ -105,6 +116,7 @@ cd 01-data-cleaning && python3 clean.py
 | 05 | KPI from 3 systems | `python3 kpi_dashboard.py` |
 | 06 | Database verification | `python3 verify.py` |
 | 07 | Cost calculator | `python3 calculator.py` |
+| 08 | Quoting system | `python3 quote.py` |
 
 ## How I work
 
